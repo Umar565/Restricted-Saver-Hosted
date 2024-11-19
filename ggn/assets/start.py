@@ -166,7 +166,7 @@ async def term_command(event):
     )
 
 REPO_URL = """ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/study_ocean_bot'>**PAID**</a>
-</b>""""
+</b>"""
 
 HELP_TEXT = """Here are the available commands:
 
