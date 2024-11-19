@@ -67,8 +67,8 @@ FORCESUB = getenv("FORCESUB", "")
 ```
 sudo apt update
 sudo apt install ffmpeg git python3-pip
-git clone your_repo_link
-cd you_repo_name
+git clone https://github.com/Umar565/Restricted-Saver-Hosted
+cd Restricted-Saver-Hosted
 pip3 install -r requirements.txt
 python3 -m ggn
 ```
